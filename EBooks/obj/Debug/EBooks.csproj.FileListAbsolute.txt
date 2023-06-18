@@ -1,0 +1,116 @@
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\EBooks.dll.config
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\EBooks.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\EBooks.pdb
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\csc.exe
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\csc.exe.config
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\csc.rsp
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\csi.exe
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\csi.exe.config
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\csi.rsp
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.AppContext.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.Console.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.IO.Compression.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.Net.Http.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.ValueTuple.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\vbc.exe
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\vbc.exe.config
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\vbc.rsp
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\VBCSCompiler.exe
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\obj\Debug\EBooks.csproj.AssemblyReference.cache
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\obj\Debug\EBooks.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\obj\Debug\EBooks.dll
+C:\Users\Abdullah H.M\source\repos\EBooks\EBooks\obj\Debug\EBooks.pdb
+B:\xampp\htdocs\EBooks\EBooks\bin\EBooks.dll.config
+B:\xampp\htdocs\EBooks\EBooks\bin\EBooks.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\EBooks.pdb
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\csc.exe
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\csc.exe.config
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\csc.rsp
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\csi.exe
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\csi.exe.config
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\csi.rsp
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\Microsoft.Managed.Core.targets
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\Microsoft.Win32.Primitives.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.AppContext.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.Collections.Immutable.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.Console.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.Diagnostics.StackTrace.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.Globalization.Calendars.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.IO.Compression.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.IO.Compression.ZipFile.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.IO.FileSystem.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.Net.Http.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.Net.Sockets.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.Reflection.Metadata.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.Text.Encoding.CodePages.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.Threading.Tasks.Extensions.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.ValueTuple.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.Xml.ReaderWriter.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.Xml.XmlDocument.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.Xml.XPath.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\System.Xml.XPath.XDocument.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\vbc.exe
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\vbc.exe.config
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\vbc.rsp
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\VBCSCompiler.exe
+B:\xampp\htdocs\EBooks\EBooks\bin\roslyn\VBCSCompiler.exe.config
+B:\xampp\htdocs\EBooks\EBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+B:\xampp\htdocs\EBooks\EBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+B:\xampp\htdocs\EBooks\EBooks\obj\Debug\EBooks.csproj.AssemblyReference.cache
+B:\xampp\htdocs\EBooks\EBooks\obj\Debug\EBooks.csproj.CoreCompileInputs.cache
+B:\xampp\htdocs\EBooks\EBooks\obj\Debug\EBooks.dll
+B:\xampp\htdocs\EBooks\EBooks\obj\Debug\EBooks.pdb
